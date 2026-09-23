@@ -1,0 +1,6 @@
+{
+  "name": "L'Intervention 2026 — Shamsul Huda Arts Fest",
+  "description": "Official interactive festival portal for L'Intervention 2026 at Shamsul Huda Arts Fest featuring the Hero Stage, Festival Contingents, and Live Leaderboard with cinematic cloud transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
